@@ -2,6 +2,8 @@
 
 The open source version of the AWS CodeBuild docs. You can submit feedback & requests for changes by submitting issues in this repo or by making proposed changes & submitting a pull request.
 
+Using this we can learn about AWS
+
 ## License Summary
 
 The documentation is made available under the Creative Commons Attribution-ShareAlike 4.0 International License. See the LICENSE file.
